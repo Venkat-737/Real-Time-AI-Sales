@@ -1,0 +1,12 @@
+FAQs (How Crew AI is Shaping the Future of Workplace Efficiency)
+1. What does Crew AI do?
+Crew AI enables the interaction of different AI agents in a productive way. These agents are able to use their powers more effectively and tackle complex assignments after performing more collaboration. Crew AI is intended to serve various purposes, from project management to customer service outsourcing due to the fact that it is oriented on the collaboration of the agents and exhibits better outsourcing.
+
+2. What is the role of an agent in Crew AI?
+An agent manages work, makes decisions, and interacts with other agents as a crucial component of Crew AI. Every agent is given distinct tasks and objectives to fulfill in order to contribute to the ultimate aim. Agents work together to improve system performance and guarantee correct and efficient completion of tasks by exchanging insights and working together.
+
+3. Can Crew AI execute code?
+Within a safe framework intended to avert negative outcomes, Crew AI is capable of executing code. When an agent runs code, it interprets the output and uses it for further tasks. Agents can incorporate the results into their responses with this functionality, which facilitates more complex problem-solving and improves their performance on a variety of tasks.
+
+4. What are the limitations of Crew AI?
+Although Crew AI has many useful characteristics, there are certain drawbacks that could restrict how practical it is. These consist of sluggish processing speeds, erratic output, and challenges with result interpretation. Furthermore, users may be discouraged by the accompanying expenditures, especially if they require prompt and dependable outcomes.

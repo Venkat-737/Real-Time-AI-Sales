@@ -1,0 +1,16 @@
+FAQs (What is Transfer Learning? A Key to Faster AI Training)
+1. What are the common applications of transfer learning?
+Transfer learning is commonly applied in image classification, natural language processing, speech recognition, and medical diagnosis. It helps when there is limited data for a specific task by reusing knowledge from a related domain, improving model performance.
+
+2. What is an example of a transfer learning model?
+A well-known example is BERT (Bidirectional Encoder Representations from Transformers), a pre-trained language model used for NLP tasks like sentiment analysis or text summarization by fine-tuning it on specific datasets.
+
+3. What is the difference between transfer learning and deep learning?
+Deep learning involves training a model from scratch using large datasets, while transfer learning adapts a pre-trained model to new tasks, speeding up the process and improving efficiency by reusing existing knowledge.
+
+4. What are the stages of transfer learning?
+The stages of transfer learning include:
+
+Pre-training
+Feature extraction or fine-tuning
+Training on the target task
