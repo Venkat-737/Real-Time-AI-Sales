@@ -1,0 +1,47 @@
+Sentiment Analysis
+Article:- https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+
+Sentiment Analysis: Concept, Analysis and Applications
+Shashank Gupta
+Towards Data Science
+Jan 7, 2018
+2.1K Reads
+
+Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, helping a business to understand the social sentiment of their brand, product, or service while monitoring online conversations. However, analysis of social media streams is usually restricted to basic sentiment analysis and count-based metrics.
+With the recent advances in deep learning, the ability of algorithms to analyze text has improved considerably. Creative use of advanced artificial intelligence techniques can be an effective tool for doing in-depth research. This includes classifying customer conversations about a brand based on:
+
+Key aspects of a brand’s product and service that customers care about.
+Users’ underlying intentions and reactions concerning those aspects.
+These basic concepts become a vital tool for analyzing millions of brand conversations with human-level accuracy. Taking the example of Uber, Shashank demonstrates how this works through sentiment and intent analysis.
+
+Text Classifier — The basic building blocks
+Sentiment Analysis
+Analyzes an incoming message to determine whether the underlying sentiment is positive, negative, or neutral.
+
+Intent Analysis
+Analyzes the user’s intention behind a message, identifying whether it relates to an opinion, news, marketing, complaint, suggestion, appreciation, or query.
+
+Contextual Semantic Search (CSS)
+CSS filters messages based on context rather than just keywords, enabling a more accurate understanding of user interactions.
+
+Uber: A deep dive analysis
+Uber, the highest valued start-up in the world, operates in more than 500 cities globally and handles a massive amount of feedback. Shashank analyzed online conversations regarding product themes: Cancel, Payment, Price, Safety, and Service.
+
+Facebook
+Sentiment Analysis
+
+Majority of comments are negative, except for Price-related comments.
+Positive comments about Price dropped from 46% to 29% after filtering irrelevant intent categories.
+Twitter
+Sentiment Analysis
+
+Payment and Safety-related Tweets initially had mixed sentiments.
+Significant reduction in positive Payment and Safety-related Tweets after filtering unrelated content.
+Service-related Tweets had the lowest positive sentiment and the highest negative sentiment.
+News
+Sentiment Analysis for News Headlines
+
+Safety was the most discussed topic with positive sentiment overall.
+Articles were classified based on popularity, showing a mixture of positive and negative sentiments.
+The age of meaningful insights from social media data has arrived with the advancement in AI, Deep Learning, and intelligent classifiers like Contextual Semantic Search and Sentiment Analysis. At Karna, you can license our technology or get a customized dashboard for generating meaningful insights from digital media.
+
