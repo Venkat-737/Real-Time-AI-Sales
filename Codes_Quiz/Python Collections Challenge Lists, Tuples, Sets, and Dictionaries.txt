@@ -1,0 +1,51 @@
+1. Extracting Insights from Customer Data
+
+Ans.  
+def get_total_orders(customer_list):
+  total_orders=0
+  for customer in customer_list:
+    total_orders+=len(customer['orders'])
+  return total_orders
+
+
+3. Inventory Revenue Calculation
+
+Ans.  
+def calculate_total_revenue(inventory):
+  revenue=0
+  for product in inventory:
+    revenue+=product['quantity']*product['price']
+  return revenue
+
+
+14. Employee Salary Calculation
+
+Ans. 
+def calculateSalary(employees):
+    salaries = {}
+    for employee in employees:
+        employee_id = employee['employee_id']
+        salary = employee['hours_worked'] * employee['hourly_rate']
+        salaries[employee_id] = salary
+    return salaries
+
+
+15. Task Completion Progress
+
+Ans.  
+def findIncompleteTasks(tasks):
+    incomplete_tasks = []
+    for task in tasks:
+        if task['status'] == 'In Progress' and task['completed_percent'] <= 100:
+            incomplete_tasks.append(task['description'])
+    return incomplete_tasks
+
+
+16. User Activity Tracking
+
+Ans. 
+def calcUserEngagement(user_activity):
+    user_engagement = {}
+    for user in user_activity:
+        user_engagement[user['user_id']] = user['likes'] + user['comments']
+    return user_engagement
